@@ -1,0 +1,18 @@
+Vehicles sold in 2012: 1665063
+Vehicles sold in 2013: 1728140
+Vehicles sold in 2014: 1851645
+Vehicles sold in 2015: 1867498
+Vehicles sold in 2016: 1948375
+Vehicles sold in 2017: 2029668
+Vehicles sold in 2018: 1987373
+Vehicles sold in 2019: 1921449
+Vehicles sold in 2020: 1661560
+Vehicles sold in 2021: 1638340
+Vehicles sold in 2022: 312230
+Calculated Sales Growth rate: -0.6317738492564244
+Estimated sales in Jul 2022: 56368.42738197729
+Estimated sales in Aug 2022: 53821.40709728398
+Estimated sales in Sep 2022: 52995.84406731688
+Estimated sales in Oct 2022: 45264.19958015403
+Estimated sales in Nov 2022: 42434.7498378404
+Estimated sales in Dec 2022: 40165.003844656996
